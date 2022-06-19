@@ -1,6 +1,5 @@
-<img align="center" alt="LibGDX" src="https://github.com/libgdx/libgdx/raw/master/libgdx_logo.svg" />
-
 <h1 align="center">Welcome to Laby Tank LibGDX 👋</h1>
+<img alt="LibGDX" src="https://github.com/libgdx/libgdx/raw/master/libgdx_logo.svg" />
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
