@@ -1,4 +1,4 @@
-<img alt="LibGDX" src="[https://img.shields.io/badge/License-MIT-yellow.svg](https://github.com/libgdx/libgdx/raw/master/libgdx_logo.svg)" />
+<img alt="LibGDX" src="https://github.com/libgdx/libgdx/raw/master/libgdx_logo.svg" />
 
 <h1 align="center">Welcome to Laby Tank LibGDX 👋</h1>
 <p>
