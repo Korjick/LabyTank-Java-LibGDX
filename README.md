@@ -1,4 +1,4 @@
-<img alt="LibGDX" src="https://github.com/libgdx/libgdx/raw/master/libgdx_logo.svg" />
+<img align="center" alt="LibGDX" src="https://github.com/libgdx/libgdx/raw/master/libgdx_logo.svg" />
 
 <h1 align="center">Welcome to Laby Tank LibGDX 👋</h1>
 <p>
